@@ -17,7 +17,7 @@ if menu == "Home":
     st.write("Curso: Especialización en Python for Analytics")
     st.write("Año: 2026")
     st.write("Descripción: Aplicación desarrollada en Streamlit que integra variables, estructuras de datos, funciones, programación funcional y POO.")
-    st.write("Tecnologías: Python, Streamlit, pandas")
+    st.write("Tecnologías: Python, Streamlit")
 
 #INICIO DE LOS EJERCICIOS 
 

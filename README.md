@@ -52,7 +52,7 @@ Modelado de actividades financieras utilizando Programación Orientada a Objetos
 
 Repositorio GitHub: (colocar enlace aquí)
 
-Aplicación en Streamlit Cloud: (colocar enlace aquí cuando esté desplegada)
+Aplicación en Streamlit Cloud: https://modulo1-gianella-vasquez-calderon.streamlit.app/
 
 ## Autor
 

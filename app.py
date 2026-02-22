@@ -13,7 +13,7 @@ menu = st.sidebar.selectbox(
 # Agregando las opciones mínimas del menú
 if menu == "Home":
     st.title("Módulo 1 - Python Fundamental")
-    st.write("Nombre: Gianella Blanca Vasquez Calderson")
+    st.write("Nombre: Gianella Blanca Vasquez Calderón")
     st.write("Curso: Especialización en Python for Analytics")
     st.write("Año: 2026")
     st.write("Descripción: Aplicación desarrollada en Streamlit que integra variables, estructuras de datos, funciones, programación funcional y POO.")
